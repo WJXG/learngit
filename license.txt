@@ -1,8 +1,7 @@
 I am license,
 I like fruit and Vegetable
 
-<<<<<<< HEAD
+
 fix bugs101
-=======
 fix bug101 for time one
->>>>>>> issue101
+
